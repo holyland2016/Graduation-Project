@@ -1,0 +1,2 @@
+基于时空显著的人体运动分析算法
+本毕设是基于2014-TCSVT-CAMHID_ Camera Motion Histogram Descriptorand Its Application to CinematographicShot Classiﬁcation来进行研究
